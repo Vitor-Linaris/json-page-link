@@ -1,9 +1,45 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "name": "Vitor Linaris",
+  "avatar": "./public/img/perfil.jpg",
+  "description": "Criadora de conteúdo, escritora e professora de história. Conheça o meu trabalho 👇🏽",
+  "links": [
+    {
+      "linkTo": "https://shopee.com.br/spotgeek?categoryId=100639&entryPoint=ShopByPDP&itemId=19799254997",
+      "name": "Shopee"
+    },
+    {
+      "linkTo": "https://www.geralgeek.com.br/loja/spot-geek/56561",
+      "name": "Geral Geek"
+    },
+    {
+      "linkTo": "mailto:spotgeekloja@gmail.com",
+      "name": "E-mail"
+    },
+    {
+      "linkTo": "https://wa.me/5511930698131",
+      "name": "WhatsApp"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "socialLinks": [
+    {
+      "linkTo": "https://www.instagram.com/spot_geek/",
+      "image": "/public/svg/instagram.svg",
+      "name_social": "Instagram"
+    },
+    {
+      "linkTo": "https://www.facebook.com/profile.php?id=61559161150678",
+      "image": "/public/svg/facebook.svg",
+      "name_social": "Facebook"
+    },
+    {
+      "linkTo": "https://www.tiktok.com/@spot.geek",
+      "image": "/public/svg/tiktok.svg",
+      "name_social": "Facebook"
+    },
+    {
+      "linkTo": "https://www.youtube.com/@SpotGeek",
+      "image": "/public/svg/youtube.svg",
+      "name_social": "Youtube"
+    }
+  ]
 }
